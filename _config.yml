@@ -1,0 +1,28 @@
+name: Just Lobsters
+favicon: null
+layout_spectrum: 0.8469705209136009
+typography_spectrum: 0.06716228486038744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.01839575101621449
+  lightness: 0.5332326490897685
+  saturation: 0.9325150363147259
+  rhythmicContrast: 0.30877069802954793
+purpose: []
